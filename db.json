@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,18 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "New Burger",
+      "description": "IDK",
+      "image": "https://31p86334w2bvkz0249eyr0cr-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/best-black-bean-burgers-2.jpg",
+      "id": 12
+    },
+    {
+      "name": "NEW NEW",
+      "description": "hahahahah",
+      "image": "https://31p86334w2bvkz0249eyr0cr-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/best-black-bean-burgers-2.jpg",
+      "id": 13
     }
   ]
 }
